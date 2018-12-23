@@ -16,3 +16,9 @@ Linear Algebra -
 1. numpy.linalg.det()  - computes the determinant of an array.
 2. numpy.linalg.eig()  - computes the eigenvalues and right eigenvectors of a square array.
 3. numpy.linalg.inv()  - computes the (multiplicative) inverse of a matrix.
+
+Eye and Identity -
+1. numpy.identity()    - returns an identity matrix.
+2. numpy.eye()         - returns a 2-D array with 1's as the diagonal and 0's elsewhere.
+                         The diagonal can be main(0, default), upper(+k) or lower(-k) depending on the optional parameter . 
+                         print numpy.eye(8, 7, k = 1)    # 8 X 7 Dimensional array with first upper diagonal 1.
