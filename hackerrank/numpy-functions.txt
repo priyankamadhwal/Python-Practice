@@ -1,4 +1,6 @@
-Polynomials - import numpy
+import numpy
+
+Polynomials -
 1.  numpy.poly()       - returns the coefficients of a polynomial with the given sequence of roots.
 2.  numpy.roots()      - returns the roots of a polynomial with the given coefficients.
 3.  numpy.polyint()    - returns an antiderivative (indefinite integral) of a polynomial.
@@ -9,3 +11,8 @@ Polynomials - import numpy
 8.  numpy.polysub()    - handle proper subtraction of polynomial coefficients.
 9.  numpy.polymul()    - handle proper multiplication of polynomial coefficients.
 10. numpy.polydiv()    - handle proper division of polynomial coefficients.
+
+Linear Algebra -
+1. numpy.linalg.det()  - computes the determinant of an array.
+2. numpy.linalg.eig()  - computes the eigenvalues and right eigenvectors of a square array.
+3. numpy.linalg.inv()  - computes the (multiplicative) inverse of a matrix.
