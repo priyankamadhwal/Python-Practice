@@ -1,7 +1,11 @@
 Polynomials - 
-1. numpy.poly()       - returns the coefficients of a polynomial with the given sequence of roots.
-2. numpy.roots()      - returns the roots of a polynomial with the given coefficients.
-3. numpy.polyint()    - returns an antiderivative (indefinite integral) of a polynomial.
-4. numpy.polyder()    - returns the derivative of the specified order of a polynomial.
-5. numpy.polyval()    - evaluates the polynomial at specific value.
-6. numpy.polyfit()    - fits a polynomial of a specified order to a set of data using a least-squares approach.
+1.  numpy.poly()       - returns the coefficients of a polynomial with the given sequence of roots.
+2.  numpy.roots()      - returns the roots of a polynomial with the given coefficients.
+3.  numpy.polyint()    - returns an antiderivative (indefinite integral) of a polynomial.
+4.  numpy.polyder()    - returns the derivative of the specified order of a polynomial.
+5.  numpy.polyval()    - evaluates the polynomial at specific value.
+6.  numpy.polyfit()    - fits a polynomial of a specified order to a set of data using a least-squares approach.
+7.  numpy.polyadd()    - handle proper addition of polynomial coefficients.
+8.  numpy.polysub()    - handle proper subtraction of polynomial coefficients.
+9.  numpy.polymul()    - handle proper multiplication of polynomial coefficients.
+10. numpy.polydiv()    - handle proper division of polynomial coefficients.
