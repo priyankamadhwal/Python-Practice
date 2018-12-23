@@ -1,4 +1,4 @@
-Polynomials - 
+Polynomials - import numpy
 1.  numpy.poly()       - returns the coefficients of a polynomial with the given sequence of roots.
 2.  numpy.roots()      - returns the roots of a polynomial with the given coefficients.
 3.  numpy.polyint()    - returns an antiderivative (indefinite integral) of a polynomial.
