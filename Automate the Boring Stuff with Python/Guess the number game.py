@@ -3,8 +3,8 @@ print('Hello player! Welcome to GUESS THE NUMBER game.')
 name = ''
 while name is '':
     name = input('Please enter your name : ')
-print('Hey '+name+'! I am thinking of a number between 1 and 50.')
-secretNumber, guess, chances = randint(1,50), 0, 10
+print('Hey '+name+'! I am thinking of a number between 1 and 30.')
+secretNumber, guess, chances = randint(1,30), 0, 10
 while chances > 0:
     print('Take a guess? (You have '+str(chances)+' chances left.)')
     guess = int(input())
