@@ -12,3 +12,6 @@ Write a function that takes a list value as an argument and returns a string wit
 Given a grid which is list of lists where each value in the inner lists is a one-character string.  
 You can think of grid[x][y] as being the character at the x- and y-coordinates of a “picture” drawn with text characters. The (0, 0) origin will be in the upper-left corner, the x-coordinates increase going right, and the y-coordinates increase going down.  
 Use the grid to print an image.
+    
+**5. TIC-TAC-TOE**    
+Two people play Tic Tac Toe with paper and pencil. One player is X and the other player is O. Players take turns placing their X or O. If a player gets three of their marks on the board in a row, column or one of the two diagonals, they win. When the board fills up with neither player winning, the game ends in a draw.
