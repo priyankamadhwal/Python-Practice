@@ -15,3 +15,8 @@ Use the grid to print an image.
     
 **5. TIC-TAC-TOE**    
 Two people play Tic Tac Toe with paper and pencil. One player is X and the other player is O. Players take turns placing their X or O. If a player gets three of their marks on the board in a row, column or one of the two diagonals, they win. When the board fills up with neither player winning, the game ends in a draw.
+   
+**6. FANTASY GAME INVENTORY**   
+You are creating a fantasy video game. The data structure to model the player’s inventory will be a dictionary where the keys are string values describing the item in the inventory and the value is an integer value detailing how many of that item the player has.  
+Write a function named displayInventory() that would take any possible “inventory” and display it.   
+Write a function named addToInventory(inventory, addedItems), where the inventory parameter is a dictionary representing the player’s inventory and the addedItems parameter is a listt. It returns an updated inventory.
