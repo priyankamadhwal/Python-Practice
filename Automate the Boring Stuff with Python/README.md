@@ -13,4 +13,7 @@ Use the grid to print an image.
 **4. FANTASY GAME INVENTORY**   
 You are creating a fantasy video game. The data structure to model the player’s inventory will be a dictionary where the keys are string values describing the item in the inventory and the value is an integer value detailing how many of that item the player has.  
 Write a function named displayInventory() that would take any possible “inventory” and display it.   
-Write a function named addToInventory(inventory, addedItems), where the inventory parameter is a dictionary representing the player’s inventory and the addedItems parameter is a listt. It returns an updated inventory.
+Write a function named addToInventory(inventory, addedItems), where the inventory parameter is a dictionary representing the player’s inventory and the addedItems parameter is a listt. It returns an updated inventory.    
+    
+**5. TABLE PRINTER**   
+A function named printTable() that takes a list of lists of strings and displays it in a well-organized table with each column right-justified.   
