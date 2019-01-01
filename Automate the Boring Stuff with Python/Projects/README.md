@@ -10,3 +10,6 @@ neither player winning, the game ends in a draw.
 **3. PASSWORD LOCKER**    
 A simple script to manage passwords that will copy any account password to the clipboard so that you can then simply paste it into the 
 website’s Password field.  
+   
+**4. BULLET POINT ADDER**    
+This script will get the text from the clipboard, add a star and space to the beginning of each line, and then paste this new text to the clipboard.   
