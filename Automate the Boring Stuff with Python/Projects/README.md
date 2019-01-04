@@ -13,3 +13,6 @@ website’s Password field.
    
 **4. BULLET POINT ADDER**    
 This script will get the text from the clipboard, add a star and space to the beginning of each line, and then paste this new text to the clipboard.   
+   
+**5. PHONE NUMBER AND EMAIL ADDRESS EXTRACTOR**    
+Searches the text in your clipboard for phone numbers and email addresses (you can simply press ctrl-A to select all the text, press ctrl-C to copy it to the clipboard). It can replace the text on the clipboard with just the phone numbers and email addresses it finds.
