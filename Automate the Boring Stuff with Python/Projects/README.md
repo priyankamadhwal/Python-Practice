@@ -18,4 +18,9 @@ This script will get the text from the clipboard, add a star and space to the be
 Searches the text in your clipboard for phone numbers and email addresses (you can simply press ctrl-A to select all the text, press ctrl-C to copy it to the clipboard). It can replace the text on the clipboard with just the phone numbers and email addresses it finds.
   
 **6. RANDOM QUIZ FILES GENERATOR**    
-Creates 50 different quizzes. Creates 29 multiple-choice questions for each quiz, in random order. Provides the correct answer and three random wrong answers for each question, in random order. Writes the quizzes to 50 text files. Writes the answer keys to 50 text files.
+Creates 50 different quizzes. Creates 29 multiple-choice questions for each quiz, in random order. Provides the correct answer and three random wrong answers for each question, in random order. Writes the quizzes to 50 text files. Writes the answer keys to 50 text files.  
+  
+**7. MULTICLIPBOARD**    
+The clipboard saves you from typing the same text over and over again. But only one thing can be on the clipboard at a time. If you have several different pieces of text that you need to copy and paste, you have to keep highlighting and copying the same few things over
+and over again.  
+This “multiclipboard” keeps track of multiple pieces of text. The program will save each piece of clipboard text under a keyword.    
