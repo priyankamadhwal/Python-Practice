@@ -1,0 +1,7 @@
+s, t = map(int,input().split())
+a, b = map(int,input().split())
+m, n = map(int,input().split())
+apples, oranges = list(map(int,input().split())), list(map(int,input().split()))
+applesCount = sum([1 for x in apples if a+x >= s and a+x <= t ])
+orangesCount = sum([1 for y in oranges if b+y >= s and b+y <= t ])
+print(applesCount, orangesCount, sep='\n')
