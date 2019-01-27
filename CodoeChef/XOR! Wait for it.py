@@ -1,8 +1,8 @@
 # https://www.codechef.com/problems/XORNEY
 
 '''
-If the count of Odd Numbers is even, Final XOR = Even ^ Even = Even
-If the count of Odd Numbers is Odd, Final XOR = Odd ^ Even = Odd
+If the count of Odd Numbers is even, Final XOR = Even
+If the count of Odd Numbers is Odd, Final XOR = Odd
 '''
 
 for _ in range(int(input())):
