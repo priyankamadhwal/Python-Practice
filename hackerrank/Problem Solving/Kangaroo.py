@@ -1,0 +1,5 @@
+x1, v1, x2, v2 = map(int, input().split())
+if v1 < v2 : print('NO')
+# equation : x1 + y*v1 = x2 + y*v2 (y is no. of jumps)
+elif (v1!=v2) and ((x2-x1)%(v1-v2)) == 0: print('YES')
+else: print('NO')
